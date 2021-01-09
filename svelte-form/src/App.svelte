@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Hello {name}!</h1>
+	<h1>{name} form!</h1>
 </main>
 
 <style>
