@@ -18,6 +18,7 @@
   }
   
   .card {
+    margin: 5px 10px;
     background-color: rgb(255, 254, 253);
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
     padding: 1em;
@@ -29,7 +30,7 @@
   }
   
   .card-title {
-    font-size: 1.5em;
+    font-size: 1.0em;
     font-weight: bold;
     margin-bottom: 0.5em;
   }
