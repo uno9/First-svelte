@@ -59,22 +59,21 @@
   <div class="person_each">
     {#each person as p}
     <li>{p.name}</li>
-    <li>{p.hobbie}</li>
+      <li>{p.hobbie}</li>
   {/each}
   </div>  
 </main>
 
 <style>
 	main {
+    width: 100%;
 		text-align: center;
 		padding: 1em;
-		max-width: 240px;
 		margin: 0 auto;
   }
   
   div{
     margin: 20px auto;
-    border-inline: 1px solid darkgray;
   }
 
 	h1 {
